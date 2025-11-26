@@ -5,3 +5,6 @@
 application-*.properties
 *.iml
 input
+
+!.github/
+!.github/**
